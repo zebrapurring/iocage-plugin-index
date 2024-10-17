@@ -4,7 +4,7 @@
     "artifact": "https://github.com/zebrapurring/iocage-plugin-bazarr",
     "pkgs": [
         "python3",
-        "python-3.11",
+        "python311",
         "py311-pip",
         "py311-libxml2",
         "py311-sqlite3",
