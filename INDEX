@@ -1,4 +1,12 @@
 {
+	"bazarr": {
+		"MANIFEST": "bazarr.json",
+		"description": "Bazarr is a companion application to Sonarr and Radarr that manages and downloads subtitles.",
+		"icon": "https://icons.freenas.org/community-icons/bazarr.png",
+		"name": "Bazarr",
+		"official": false,
+		"primary_pkg": null
+	},
     "paperless-ngx": {
         "MANIFEST": "paperless-ngx.json",
         "description": "Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive.",
