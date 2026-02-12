@@ -6,7 +6,6 @@
         "python3",
         "python311",
         "py311-pip",
-        "py311-libxml2",
         "py311-sqlite3",
         "libxslt",
         "unzip",
