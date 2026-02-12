@@ -5,6 +5,7 @@
     "pkgs": [
         "python3",
         "python311",
+        "py311-pillow",
         "py311-pip",
         "py311-sqlite3",
         "libxslt",
